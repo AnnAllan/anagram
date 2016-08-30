@@ -1,0 +1,15 @@
+body {
+	background:#f8f8f8;
+	background:url('https://c2.staticflickr.com/2/1637/25971426720_d1af0a2b8f_b.jpg');
+	background-repeat:no-repeat;
+	font-family:'montserrat', arial;
+	margin: auto;
+}
+
+h1 {
+	color: navy;
+}
+
+.error {
+	color: red;
+}
